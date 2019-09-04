@@ -1,0 +1,25 @@
+{
+  "name": "(rest-shop)",
+  "version": "1.0.0",
+  "description": "A Node.js Restful API Tutorial Project (Build simple Shop API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernanR/Simple-Shop-API---Node.js.git"
+  },
+  "keywords": [
+    "git@github.com:BernanR/Simple-Shop-API---Node.js.git"
+  ],
+  "author": "Bernan Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BernanR/Simple-Shop-API---Node.js/issues"
+  },
+  "homepage": "https://github.com/BernanR/Simple-Shop-API---Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
