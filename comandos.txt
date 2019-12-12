@@ -1,0 +1,29 @@
+
+vue create .
+rodar servidor local
+npm run serve
+
+npm install bootstrap --save (save serve para salvar no package.json)
+npm font-owesome --save
+
+npm install vue-router (instalar rota, existe uma opção de instalar com templates)
+
+
+para corrigir os problemas no código
+--- existem configurações no  package json referente a essa ferramenta.
+--- também tem as regras do settingjson.json
+npm run lint
+
+"rules": {
+      "quotes" : ["error","double"],
+      "indent" : ["error","tab"],
+      "semi" : ["error","always"]
+    }, 
+
+
+trabalhar com import 
+instalação e configuração do Babel
+https://medium.com/@febatista107/como-usar-es6-no-node-js-cc74d85f6f24
+
+no package.json tem um atribuito scrpts, 
+lá foi inserido o script para iniciar o projeto com o nmp start
